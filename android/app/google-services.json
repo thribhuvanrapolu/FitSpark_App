@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1076428158460",
+    "project_id": "fitspark-83e66",
+    "storage_bucket": "fitspark-83e66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076428158460:android:7f24952f06cbb7079a6e79",
+        "android_client_info": {
+          "package_name": "com.flutterflow.healthai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076428158460-lk95ttqi169gthbpjp93gi2hfpn48lef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJkmG39-rgv4CCDZphZ8hkPfNWGUOpIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076428158460-lk95ttqi169gthbpjp93gi2hfpn48lef.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1076428158460-21cflfrfqffgjqas3harocpdov2b2vle.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.healthai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
